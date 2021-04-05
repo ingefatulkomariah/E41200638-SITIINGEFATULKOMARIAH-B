@@ -22,8 +22,8 @@ public class Tugas5B {
         
         int i = 1;
         do {
-            System.out.print(i + " ");
-            i *= 2;
+            System.out.print(i*2 + " ");
+            i++;
         } 
         while ( i < 100);
     }
