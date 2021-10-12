@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <string-array name="jenis_hewan">
+        <item> Mobile Legend </item>
+        <item> PUBG </item>
+        <item> FreeFire </item>
+        <item> Valorant </item>
+        <item> Clash Of Clans </item>
+        <item> High Domino </item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
