@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Manajemen_File</string>
+    <string name="add_text" />
+    <string name="show_public_data" />
+    <string name="show_private_data" />
+    <string name="back" />
+    <string name="click_to_view" />
+    <string name="save_as_public" />
+    <string name="save_as_private" />
+</resources>
